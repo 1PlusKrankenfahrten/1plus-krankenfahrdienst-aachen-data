@@ -1,0 +1,48 @@
+{
+  "service": "Dialysefahrten",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Wir bieten sichere und pünktliche Fahrten zur Dialyse in Aachen. Unsere Dialysefahrten erfolgen regelmäßig zu Dialysezentren, nephrologischen Praxen und Tageskliniken. Patienten werden von der Haustür bis zum Behandlungsplatz begleitet. Der Transport erfolgt schonend, individuell angepasst und je nach Bedarf mit Rollstuhl, Tragestuhl oder als Liegendtransport. Wir unterstützen Patienten bei jedem Termin zuverlässig und entlasten Angehörige sowie Pflegeeinrichtungen durch eine planbare und professionelle Beförderung.",
+
+  "keywords": [
+    "Dialyse Aachen",
+    "Fahrten zur Dialyse in Aachen",
+    "Dialysefahrt",
+    "regelmäßige Dialysefahrten",
+    "Dialysezentrum Aachen",
+    "Nephrologie Aachen",
+    "Hämodialyse",
+    "Peritonealdialyse",
+    "Nierenzentrum",
+    "KfH Aachen",
+    "Krankenfahrdienst Aachen",
+    "Dialyse Beförderung",
+    "Dialyse Taxi Aachen",
+    "medizinische Beförderung Aachen",
+    "Transport zur Dialyse",
+    "ambulante Dialyse",
+    "Dialysepatient Transport",
+    "Dialysefahrdienst"
+  ],
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "qualitätsmerkmale": {
+    "hygiene": "Wir arbeiten mit hohen Hygienestandards, reinigen unsere Fahrzeuge täglich und desinfizieren Kontaktflächen vor und nach jeder Fahrt.",
+    "fahrerqualifikation": "Unser Team ist speziell geschult im Umgang mit Dialysepatienten, Rollstuhl- und Tragestuhltransporten sowie besonderen gesundheitlichen Situationen.",
+    "zuverlässigkeit": "Wir garantieren pünktliche Abholzeiten, klare Kommunikation und eine stressfreie Beförderung vor und nach jeder Dialysebehandlung.",
+    "service": "Wir begleiten Patienten von der Wohnung bis zum Dialyseplatz und unterstützen beim Ein- und Aussteigen sowie bei allen Mobilitätsschritten.",
+    "fahrzeugsauberkeit": "Unsere Fahrzeuge sind modern, barrierefrei, gepflegt und mit professionellen Sicherungssystemen für Rollstuhl- und Tragestuhltransporte ausgestattet.",
+    "komfort": "Unsere Fahrten bieten sanfte Beförderung, sichere Gurtsysteme, rutschfeste Ein- und Ausstiege sowie eine ruhige und angenehme Umgebung."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
