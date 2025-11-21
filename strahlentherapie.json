@@ -1,0 +1,47 @@
+{
+  "service": "Strahlentherapiefahrten",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Wir bieten bei 1Plus Krankenfahrten sichere und zuverlässige Fahrten zur Strahlentherapie in Aachen. Unsere Strahlentherapiefahrten führen regelmäßig zu radiologischen und onkologischen Zentren sowie Bestrahlungseinrichtungen. Patienten werden an der Haustür abgeholt, begleitet und bis zum Behandlungsplatz unterstützt. Die Fahrten erfolgen schonend, pünktlich und je nach Bedarf mit Rollstuhl, Tragestuhl oder als Liegendtransport. Unser Service entlastet Patienten und Angehörige und sorgt dafür, dass alle Bestrahlungstermine zuverlässig erreicht werden.",
+
+  "keywords": [
+    "Strahlentherapie Aachen",
+    "Fahrten zur Strahlentherapie in Aachen",
+    "Radiologie Aachen",
+    "Onkologie Aachen",
+    "Bestrahlungszentrum Aachen",
+    "Strahlentherapie Transport",
+    "Radiotherapie Aachen",
+    "Bestrahlungstermine Fahrt",
+    "medizinische Beförderung Aachen",
+    "Transport zu Bestrahlung",
+    "schonende Beförderung Krebspatienten",
+    "Fahrt zur Krebstherapie",
+    "regelmäßige Strahlentherapiefahrten",
+    "Krebspatienten Transport",
+    "1Plus Krankenfahrten",
+    "Onkologische Behandlung Fahrt",
+    "Transport zur Tumortherapie"
+  ],
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "qualitätsmerkmale": {
+    "hygiene": "Wir halten hohe Hygienestandards ein und desinfizieren Kontaktflächen regelmäßig, um immungeschwächte Patienten bestmöglich zu schützen.",
+    "fahrerqualifikation": "Unsere Fahrer sind geschult im Umgang mit Krebspatienten und kennen die besonderen Anforderungen während radiologischer und onkologischer Behandlungen.",
+    "zuverlässigkeit": "Wir garantieren pünktliche Abholung, genaue Planung und stressfreie Fahrten zu allen Bestrahlungsterminen.",
+    "service": "Wir begleiten Patienten von der Haustür bis zum Behandlungsplatz und unterstützen bei allen Schritten der Mobilität.",
+    "fahrzeugsauberkeit": "Unsere Fahrzeuge sind gepflegt, barrierefrei und mit professioneller Sicherungstechnik für Rollstuhl- und Tragestuhltransporte ausgestattet.",
+    "komfort": "Sanfte Fahrweise, sichere Gurtsysteme und eine ruhige, angenehme Umgebung sorgen für eine möglichst entspannte Fahrt zur Strahlentherapie."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
