@@ -1,0 +1,47 @@
+{
+  "service": "Rehafahrten und Nachsorgefahrten",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Wir bieten bei 1Plus Krankenfahrten in Aachen sichere und zuverlässige Fahrten zur Reha deutschlandweit. Unsere Rehafahrten führen zu Rehakliniken, Reha Zentren, Tageskliniken und Praxen für Anschlussheilbehandlung. Patienten werden zuhause abgeholt, begleitet und bis zum Behandlungs oder Therapieraum unterstützt. Die Beförderung erfolgt schonend, pünktlich und je nach Bedarf mit Rollstuhl, Tragestuhl oder als Liegendtransport. So werden Patienten, Angehörige und Pflegeeinrichtungen bei der Organisation von Reha und Nachsorge deutlich entlastet.",
+
+  "keywords": [
+    "Reha Aachen",
+    "Rehafahrten in Aachen",
+    "Fahrten zur Reha",
+    "Anschlussheilbehandlung Transport",
+    "Nachsorgefahrten",
+    "Reha Klinik Fahrt",
+    "medizinische Rehafahrt",
+    "Reha Taxi Aachen",
+    "Reha Beförderung",
+    "Transport zur Physiotherapie",
+    "Transport zur Ergotherapie",
+    "Reha Zentrum Aachen",
+    "Fahrdienst für Reha Patienten",
+    "1Plus Krankenfahrten",
+    "medizinische Nachsorge Fahrt",
+    "regelmäßige Rehafahrten",
+    "Transport zu Reha Einrichtungen"
+  ],
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "qualitätsmerkmale": {
+    "hygiene": "Wir erfüllen hohe Hygienestandards, reinigen unsere Fahrzeuge täglich und desinfizieren regelmäßig Kontaktflächen.",
+    "fahrerqualifikation": "Unsere Fahrer sind im Umgang mit Reha und Nachsorgepatienten geschult und unterstützen bei eingeschränkter Mobilität.",
+    "zuverlässigkeit": "Wir planen Rehafahrten pünktlich und sorgen dafür, dass Therapie und Behandlungstermine zuverlässig erreicht werden.",
+    "service": "Wir unterstützen beim Ein und Aussteigen, begleiten Patienten von der Wohnung bis zur Reha Einrichtung und wieder nach Hause.",
+    "fahrzeugsauberkeit": "Unsere Fahrzeuge sind gepflegt, barrierefrei und mit Sicherungssystemen für Rollstuhl und Tragestuhl ausgestattet.",
+    "komfort": "Sanfte Fahrweise, sichere Gurtsysteme und eine ruhige Umgebung sorgen für eine angenehme Fahrt zur Reha und zurück."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
