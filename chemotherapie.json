@@ -1,0 +1,47 @@
+{
+  "service": "Chemotherapiefahrten",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Wir bieten sichere, schonende und pünktliche Fahrten zur Chemotherapie in Aachen. Unsere Chemotherapiefahrten führen regelmäßig zu onkologischen Praxen, Krebszentren und Tageskliniken. Patienten werden an der Haustür abgeholt, begleitet und bis zum Behandlungsplatz unterstützt. Der Transport erfolgt individuell angepasst und je nach Bedarf mit Rollstuhl, Tragestuhl oder als Liegendtransport. Unser Service entlastet Patienten und Angehörige und sorgt für eine zuverlässige Beförderung zu allen onkologischen Terminen.",
+
+  "keywords": [
+    "Chemotherapie Aachen",
+    "Fahrten zur Chemotherapie in Aachen",
+    "Onkologie Aachen",
+    "Krebszentrum Aachen",
+    "onkologische Praxis",
+    "Chemotherapie Transport",
+    "Chemo Taxi Aachen",
+    "Krebspatienten Fahrt",
+    "medizinische Beförderung Aachen",
+    "Chemotherapie Beförderung",
+    "Transport zur onkologischen Tagesklinik",
+    "regelmäßige Chemotherapiefahrten",
+    "1Plus Krankenfahrten",
+    "Transport zu Krebsbehandlungen",
+    "schonende Beförderung Krebspatienten",
+    "Fahrt zur Infusionstherapie",
+    "Behandlungsfahrt Onkologie"
+  ],
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "qualitätsmerkmale": {
+    "hygiene": "Wir erfüllen hohe Hygienestandards und desinfizieren regelmäßig alle Kontaktflächen, um immungeschwächte Patienten bestmöglich zu schützen.",
+    "fahrerqualifikation": "Unsere Fahrer sind im Umgang mit Krebspatienten geschult und kennen die besonderen Anforderungen während einer Chemotherapie.",
+    "zuverlässigkeit": "Pünktliche Abholung, präzise Planung und stressfreie Fahrten zu allen onkologischen Terminen.",
+    "service": "Wir begleiten Patienten von der Wohnung bis zum Behandlungsplatz und unterstützen beim Ein und Aussteigen sowie bei allen Mobilitätsschritten.",
+    "fahrzeugsauberkeit": "Unsere Fahrzeuge sind gepflegt, modern, barrierefrei und mit professioneller Sicherungstechnik ausgestattet.",
+    "komfort": "Sanfte Fahrweise, sichere Gurtsysteme und eine ruhige, angenehme Umgebung für eine möglichst entspannte Fahrt zur Chemotherapie."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
