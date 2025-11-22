@@ -1,0 +1,56 @@
+{
+  "service": "Rollstuhltransport",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Bei 1Plus Krankenfahrten bieten wir sichere und barrierefreie Rollstuhltransporte in Aachen und der StädteRegion. Patienten bleiben in ihrem eigenen Rollstuhl sitzen und müssen nicht umsteigen. Unsere Fahrzeuge verfügen über Rampen, Einstiegshilfen und professionelle Sicherungssysteme. Wir befördern Rollstuhlfahrer zuverlässig zu Ärzten, Kliniken, Dialyse, Chemotherapie, Strahlentherapie, Reha und weiteren medizinisch notwendigen Terminen. Unser Team unterstützt Patienten von der Haustür bis zum Behandlungsplatz und sorgt für eine angenehme, schonende und komfortable Beförderung."
+
+
+  "keywords": [
+    "Rollstuhltransport Aachen",
+    "Rollstuhl Taxi Aachen",
+    "rollstuhlgerechter Transport",
+    "barrierefreier Fahrdienst",
+    "Fahrdienst für Rollstuhlfahrer",
+    "Rollstuhl Fahrdienst Aachen",
+    "Transport im eigenen Rollstuhl",
+    "elektrischer Rollstuhl Transport",
+    "E Rollstuhl Transport",
+    "Krankenfahrdienst Rollstuhl",
+    "Behindertenfahrdienst Aachen",
+    "barrierefreies Fahrzeug",
+    "medizinischer Rollstuhltransport",
+    "Fahrt im Rollstuhl zur Dialyse",
+    "Fahrt im Rollstuhl zur Chemotherapie",
+    "Fahrt im Rollstuhl zur Reha",
+    "Rollstuhl Beförderung Städteregion Aachen",
+    "1Plus Krankenfahrten"
+  ],
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "fahrzeugausstattung": {
+    "rampe": "Fahrzeuge mit Rampe oder abgesenktem Einstieg für einen barrierearmen Zugang.",
+    "sicherungssysteme": "Professionelle Sicherungssysteme wie Mehrpunkt Gurte und Rollstuhlverankerung für einen sicheren Stand während der Fahrt.",
+    "platzangebot": "Ausreichend Platz für Rollstühle, Begleitpersonen und Hilfsmittel.",
+    "barrierefreiheit": " Barrierefreie Fahrzeuge sind auf die Beförderung von Menschen mit eingeschränkter Mobilität ausgelegt."
+  },
+
+  "qualitätsmerkmale": {
+    "hygiene": "Wir reinigen unsere Fahrzeuge täglich und desinfizieren Kontaktflächen regelmäßig.",
+    "fahrerqualifikation": "Unsere Fahrer sind im sicheren Umgang mit Rollstühlen, E Rollstühlen und technischen Sicherungssystemen geschult.",
+    "zuverlässigkeit": "Wir planen Rollstuhltransporte pünktlich, damit Behandlungs und Untersuchungstermine sicher erreicht werden.",
+    "service": "Wir unterstützen beim Öffnen von Türen, beim Ein und Aussteigen, beim Positionieren und Sichern des Rollstuhls sowie beim Weg bis zur Anmeldung oder zum Behandlungsraum.",
+    "fahrzeugsauberkeit": "Unsere Fahrzeuge sind gepflegt, barrierefrei und technisch auf dem aktuellen Stand.",
+    "komfort": "Sanfte Fahrweise, sichere Gurte und eine ruhige Umgebung sorgen für eine möglichst angenehme Fahrt im Rollstuhl."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
