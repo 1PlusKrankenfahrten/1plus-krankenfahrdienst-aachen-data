@@ -1,0 +1,72 @@
+{
+  "service": "Privat versicherte Krankenfahrten",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Bei 1Plus Krankenfahrten befördern wir neben normalen Kassenpatienten auch privatversicherte Patienten sicher, zuverlässig und komfortabel zu allen medizinisch notwendigen Terminen. Wir unterstützen mit dem best möglichen Service bei der Beförderung zu Ärzten, Kliniken, Dialyse, Chemotherapie, Strahlentherapie, Reha oder diagnostischen Untersuchungen. Privatversicherte können Krankenfahrten über ihre private Krankenversicherung abrechnen, wenn eine medizinische Notwendigkeit besteht. Wir bieten alle Transportarten wie Rollstuhltransport, Tragestuhltransport und Liegendtransport an und sorgen für eine professionelle und individuelle Betreuung.",
+
+  "keywords": [
+    "Krankenfahrten privatversichert Aachen",
+    "Krankenfahrt private Krankenkasse",
+    "Privat Krankenfahrdienst Aachen",
+    "privatversicherte Patienten Transport",
+    "PKV Krankenfahrt Abrechnung",
+    "Fahrt zur Behandlung privatversichert",
+    "medizinische Fahrt privatversichert",
+    "Rollstuhltransport privatversichert",
+    "Tragestuhltransport privatversichert",
+    "Liegendtransport privatversichert",
+    "Fahrt zur Dialyse privatversichert",
+    "Fahrt zur Chemotherapie privatversichert",
+    "Fahrt zur Strahlentherapie privatversichert",
+    "1Plus Krankenfahrten"
+  ],
+
+  "private_krankenkassen": [
+    "Debeka",
+    "HUK Coburg",
+    "Private Krankenversicherung der Allianz",
+    "Signal Iduna",
+    "Axa Krankenversicherung",
+    "DKV",
+    "Gothaer",
+    "Continentale",
+    "Generali",
+    "HanseMerkur",
+    "LVM Krankenversicherung",
+    "Barmenia",
+    "Württembergische",
+    "R+V Krankenversicherung",
+    "ARAG",
+    "SDK",
+    "PAX",
+    "Inter Krankenversicherung"
+  ],
+
+  "hinweise_pkv_abrechnung": {
+    "medizinische_notwendigkeit": "Für die Kostenübernahme verlangen private Krankenversicherungen in der Regel eine ärztliche Verordnung oder eine schriftliche medizinische Begründung.",
+    "erstattung": "Privatversicherte reichen die Rechnung nach der Fahrt direkt bei ihrer PKV ein. Die Kostenerstattung erfolgt je nach Tarif vollständig oder anteilig.",
+    "vorauszahlung": "Privatpatienten zahlen die Fahrt in der Regel zunächst selbst und erhalten anschließend eine Erstattung ihrer privaten Krankenversicherung.",
+    "transparenz": "Wir erstellen eine detailgenaue, PKV-konforme Rechnung zur Einreichung bei der privaten Krankenversicherung. Somit haben privatversicherte Patienten keine Probleme bei der erstattung der Fahrtkosten."
+  },
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "qualitätsmerkmale": {
+    "hygiene": "Hohe Hygienestandards und regelmäßige Desinfektion aller Kontaktflächen.",
+    "fahrerqualifikation": "Erfahrene Fahrer, geschult im Umgang mit privatversicherten Patienten und individuellen Bedürfnissen.",
+    "zuverlässigkeit": "Pünktliche und planbare Krankenfahrten speziell für Privatversicherte.",
+    "service": "Begleitung von der Haustür bis zum Behandlungsplatz sowie Unterstützung bei der Organisation der Fahrt.",
+    "fahrzeugsauberkeit": "Moderne, gepflegte und barrierefreie Fahrzeuge auf hohem Qualitätsniveau.",
+    "komfort": "Bequeme Beförderung, sanfte Fahrweise und sichere Fixierung in allen Transportvarianten."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
