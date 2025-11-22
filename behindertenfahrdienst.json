@@ -1,0 +1,53 @@
+{
+  "service": "Behindertenfahrdienst",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Bei 1Plus Krankenfahrten bieten wir einen zuverlässigen Behindertenfahrdienst für Menschen mit körperlichen Einschränkungen, Behinderungen und eingeschränkter Mobilität. Wir unterstützen Patienten, Senioren und Menschen mit Behinderung bei medizinisch notwendigen Fahrten zu Ärzten, Kliniken, Dialyse, Chemotherapie, Strahlentherapie, Reha oder therapeutischen Einrichtungen. Unser Fahrdienst ist barrierefrei, individuell anpassbar und erfolgt je nach Bedarf mit Rollstuhltransport, Tragestuhltransport oder Liegendtransport.",
+
+  "keywords": [
+    "Behindertenfahrdienst Aachen",
+    "Behindertenfahrdienst StädteRegion Aachen",
+    "Fahrdienst für Menschen mit Behinderung",
+    "barrierefreier Fahrdienst Aachen",
+    "Rollstuhl Taxi Aachen",
+    "Transport für Menschen mit Handicap",
+    "Fahrdienst für eingeschränkte Mobilität",
+    "Transport für Behinderte",
+    "Krankenfahrdienst Aachen",
+    "medizinische Beförderung Aachen",
+    "Rollstuhltransport Aachen",
+    "Tragestuhltransport Aachen",
+    "Liegendfahrt Aachen",
+    "Fahrt zur Dialyse Behinderte",
+    "Fahrt zur Chemotherapie Behinderte",
+    "Fahrt zur Reha Behinderte",
+    "1Plus Krankenfahrten"
+  ],
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "barrierefreiheit": {
+    "fahrzeuge": "Unsere Fahrzeuge sind barrierefrei, mit Rampen, Einstiegshilfen und Sicherungssystemen ausgestattet.",
+    "hilfestellung": "Wir unterstützen beim Ein und Aussteigen, beim Positionieren von Rollstühlen und beim sicheren Umsetzen.",
+    "anpassung": "Beförderung individuell anpassbar je nach Mobilität und Bedarf."
+  },
+
+  "qualitätsmerkmale": {
+    "hygiene": "Wir reinigen und desinfizieren Fahrzeuge und Kontaktflächen täglich, um höchste Hygienestandards zu gewährleisten.",
+    "fahrerqualifikation": "Unsere Fahrer sind im Umgang mit Menschen mit Behinderung, Rollstühlen und Tragestühlen geschult.",
+    "zuverlässigkeit": "Pünktliche Abholung, klare Kommunikation und sichere Planung medizinischer Termine.",
+    "service": "Wir begleiten Patienten von der Haustür bis zum Behandlungsplatz und unterstützen bei allen Mobilitätsschritten.",
+    "fahrzeugsauberkeit": "Moderne, gepflegte und barrierefreie Fahrzeuge sorgen für eine angenehme Fahrt.",
+    "komfort": "Sanfte Fahrweise, rutschfeste Einstiege und sichere Fixierungen gewährleisten eine komfortable Beförderung."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
