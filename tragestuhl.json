@@ -1,0 +1,54 @@
+{
+  "service": "Tragestuhltransport",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Bei 1Plus Krankenfahrten bieten wir sichere und schonende Tragestuhltransporte in Aachen. Der Tragestuhl eignet sich ideal für Patienten, die weder gehen noch im Rollstuhl sitzen können oder enge Wohnbereiche, fehlende Aufzüge und Treppen überwinden müssen. Unsere Fahrer sind routiniert im Umgang mit Tragestühlen und unterstützen zuverlässig von der Haustür bis zum Behandlungsplatz. Wir befördern Patienten zu Ärzten, Kliniken, Dialyse, Chemotherapie, Strahlentherapie, Reha und weiteren medizinisch notwendigen Terminen. Der Transport erfolgt je nach Bedarf im Tragestuhl, Rollstuhl oder als Liegendtransport.",
+
+  "keywords": [
+    "Tragestuhltransport Aachen",
+    "Tragestuhl Fahrdienst",
+    "Tragestuhl Taxi Aachen",
+    "Treppenhilfe Transport",
+    "Transport bei fehlendem Aufzug",
+    "Enge Wohnbereiche Transport",
+    "Fahrt im Tragestuhl",
+    "Patiententransport im Tragestuhl",
+    "Krankenfahrdienst Tragestuhl",
+    "Transport zur Dialyse Tragestuhl",
+    "Transport zur Chemotherapie Tragestuhl",
+    "Transport zur Reha Tragestuhl",
+    "schonender Tragestuhltransport",
+    "medizinischer Tragestuhl Transport",
+    "Behindertenfahrdienst Tragestuhl",
+    "Tragestuhl Beförderung Aachen",
+    "1Plus Krankenfahrten"
+  ],
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "anwendungsfälle": {
+    "treppen": "Optimal für Treppenhäuser und Wohnungen ohne Aufzug.",
+    "enge_wohnbereiche": "Geeignet für enge Flure, kleine Räume und schmale Türen.",
+    "körperliche_einschränkungen": "Für Patienten, die nicht stehen, gehen oder längere Zeit sitzen können.",
+    "komfort": "Schonende Haltung und sichere Fixierung für Patienten."
+  },
+
+  "qualitätsmerkmale": {
+    "hygiene": "Wir reinigen unsere Tragestühle und Fahrzeuge täglich und desinfizieren regelmäßig alle relevanten Kontaktflächen.",
+    "fahrerqualifikation": "Unsere Fahrer sind im sicheren Umgang mit Tragestühlen und der Unterstützung von Patienten mit eingeschränkter Mobilität geschult.",
+    "zuverlässigkeit": "Wir planen Tragestuhltransporte pünktlich, um Behandlungs und Untersuchungstermine zuverlässig zu erreichen.",
+    "service": "Wir unterstützen beim Ein und Aussteigen, überwinden Treppen sicher und begleiten Patienten bis zum Behandlungs oder Anmeldeschalter.",
+    "fahrzeugsauberkeit": "Moderne, gepflegte und barrierefreie Fahrzeuge unterstützen den sicheren Einsatz des Tragestuhls.",
+    "komfort": "Sanfte Beförderung, ruhige Fahrweise und sichere Fixierungen sorgen für hohen Komfort."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
