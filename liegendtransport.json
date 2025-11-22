@@ -1,0 +1,53 @@
+{
+  "service": "Liegendtransport",
+  "region": "Aachen und StädteRegion Aachen",
+
+  "beschreibung": "Bei 1Plus Krankenfahrten bieten wir schonende Liegendtransporte für Patienten an, die nicht sitzen können oder für die ein Transport im Rollstuhl oder Tragestuhl nicht möglich ist. Wir befördern Patienten liegend zu Ärzten, Kliniken, Dialyse, Chemotherapie, Strahlentherapie, Reha und weiteren medizinisch notwendigen Terminen. Es handelt sich um liegende Krankenfahrten ohne rettungsdienstliche Versorgung an Bord. Unser Team unterstützt Patienten von der Wohnung bis zum Behandlungs oder Untersuchungsraum und sorgt für eine ruhige, sichere und komfortable Beförderung.",
+
+  "keywords": [
+    "Liegendtransport Aachen",
+    "Liegendfahrt Aachen",
+    "liegende Krankenfahrt",
+    "medizinisch notwendiger Liegendtransport",
+    "Fahrt liegend zum Arzt",
+    "Fahrt liegend zur Klinik",
+    "Liegendtransport zur Dialyse",
+    "Liegendtransport zur Chemotherapie",
+    "Liegendtransport zur Strahlentherapie",
+    "Liegendtransport zur Reha",
+    "Krankenfahrdienst Liegendtransport",
+    "Patiententransport liegend",
+    "schonender Liegendtransport",
+    "1Plus Krankenfahrten",
+    "Transport bei fehlender Sitzfähigkeit",
+    "Beförderung liegender Patienten"
+  ],
+
+  "transportarten": [
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport"
+  ],
+
+  "ausstattung": {
+    "liege": "Stabile und gepolsterte Patientenliege für eine sichere und bequeme Lagerung.",
+    "sicherung": "Sichere Gurtsysteme und Lagerungshilfen zur Stabilisierung während der Fahrt.",
+    "zugang": "Ausreichend Platz für den liegenden Transport beim Ein und Ausladen.",
+    "unterstützung": "Hilfe beim Umlagern vom Bett auf die Liege und zurück, durch unser geschultes Personal."
+  },
+
+  "qualitätsmerkmale": {
+    "hygiene": "Wir reinigen unsere Fahrzeuge und Liegen täglich und desinfizieren regelmäßig alle relevanten Kontaktflächen.",
+    "fahrerqualifikation": "Unsere Fahrer sind im Umgang mit liegenden Patienten und in der sicheren Fixierung von Liegen geschult.",
+    "zuverlässigkeit": "Wir planen Liegendtransporte pünktlich, damit medizinische Termine zuverlässig erreicht werden.",
+    "service": "Wir unterstützen beim Umlagern, begleiten Patienten von der Wohnung bis zum Behandlungs oder Untersuchungsraum und wieder zurück.",
+    "fahrzeugsauberkeit": "Unsere Fahrzeuge sind gepflegt, barrierefrei und für Liegendtransporte ausgelegt.",
+    "komfort": "Sanfte Fahrweise, sichere Lagerung und eine ruhige Umgebung sorgen für eine möglichst angenehme Fahrt im Liegen."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen"
+  }
+}
