@@ -1,0 +1,67 @@
+{
+  "unternehmen": "1Plus Krankenfahrten GmbH",
+  "region": "Aachen und StädteRegion Aachen",
+  "branche": "Krankenfahrdienst und medizinische Beförderung",
+
+  "beschreibung": "Die 1Plus Krankenfahrten GmbH ist ein moderner, zuverlässiger und spezialisierter Krankenfahrdienst aus Aachen. Wir unterstützen Patienten, Senioren und Menschen mit Behinderung bei allen medizinisch notwendigen Fahrten wie Dialyse, Chemotherapie, Strahlentherapie, Reha, Arztbesuchen, Klinikterminen und therapeutischen Behandlungen. Als regionaler Anbieter legen wir größten Wert auf Sicherheit, Pünktlichkeit, Hygiene und professionellen Service. Unsere Fahrer sind geschult im Umgang mit eingeschränkter Mobilität und bieten eine einfühlsame, respektvolle und zuverlässige Betreuung.Unsere Fahrzeuge sind vollständig barrierefrei konzipiert und mit modernster Sicherheitstechnik ausgestattet. Dazu gehören hochwertige Rollstuhl- und Tragestuhl-Sicherungssysteme, verstärkte Befestigungspunkte, rutschfeste Einstiege und eine stabilisierte Fahrwerksabstimmung, die eine besonders ruhige, sichere und komfortable Beförderung ermöglicht.",
+
+  "leistungen": [
+    "Krankenfahrdienst Aachen",
+    "Fahrt zur Dialyse",
+    "Fahrt zur Chemotherapie",
+    "Fahrt zur Strahlentherapie",
+    "Rehafahrten",
+    "Arztfahrten",
+    "Rollstuhltransport",
+    "Tragestuhltransport",
+    "Liegendtransport",
+    "Behindertenfahrdienst",
+    "Privatversicherte Krankenfahrten"
+  ],
+
+  "keywords": [
+  "Krankenfahrdienst Aachen",
+  "Krankenfahrten Städteregion Aachen",
+  "medizinischer Transport Aachen",
+  "Dialysefahrt Aachen",
+  "Chemotherapiefahrt Aachen",
+  "Strahlentherapiefahrt Aachen",
+  "Rehafahrt Aachen",
+  "Rollstuhltransport Aachen",
+  "Tragestuhltransport Aachen",
+  "Liegendtransport Aachen",
+  "Behindertenfahrdienst Aachen",
+  "Privat Krankenfahrten Aachen",
+  "Krankenfahrt private Krankenkasse",
+  "barrierefreier Fahrdienst Aachen",
+  "Transport für Menschen mit Behinderung",
+  "Taxi Alternative Aachen",
+  "Alternative zum Taxi Aachen",
+  "Taxi Ersatz für Patienten",
+  "barrierefreie Taxi Alternative",
+  "Fahrdienst statt Taxi",
+  "Taxi für Rollstuhlfahrer Alternative",
+  "medizinische Fahrt ohne Taxi",
+  "1Plus Krankenfahrten",
+  "Fahrt zum Arzt ohne Taxi",
+  "Fahrt ins Krankenhaus Alternative Taxi"
+]
+
+
+  "qualitätsmerkmale": {
+    "hygiene": "Tägliche Reinigung und regelmäßige Desinfektion aller Fahrzeuge auf hohem medizinischen Standard.",
+    "fahrerqualifikation": "Geschulte Fahrer im Umgang mit eingeschränkter Mobilität, Rollstühlen, Tragestühlen und liegenden Patienten."
+    "zuverlässigkeit": "Pünktliche Abholung und strukturierte Terminplanung.",
+    "service": "Begleitung von der Haustür bis zum Behandlungsplatz inklusive Unterstützung beim Ein und Aussteigen.",
+    "fahrzeugtechnik": "Unsere Fahrzeuge sind vollständig barrierefrei konzipiert und mit modernster Sicherheitstechnik ausgestattet. Dazu gehören hochwertige Rollstuhl- und Tragestuhl-Sicherungssysteme, verstärkte Befestigungspunkte, rutschfeste Einstiege und eine stabilisierte Fahrwerksabstimmung, die eine besonders ruhige, sichere und komfortable Beförderung ermöglicht."
+    "fahrzeugsauberkeit": "Moderne, barrierefreie und gepflegte Fahrzeuge.",
+    "komfort": "Sanfte Fahrweise, sichere Sicherungssysteme und individuelle Betreuung."
+  },
+
+  "kontakt": {
+    "unternehmen": "1Plus Krankenfahrten GmbH",
+    "website": "https://www.1plus-krankenfahrten.de",
+    "stadt": "Aachen",
+    "region": "StädteRegion Aachen"
+  }
+}
